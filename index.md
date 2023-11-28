@@ -1,5 +1,6 @@
 ### Kuangyu Zou, kzou@ucsd.edu
 ### B18, Brian Duke
+
 #### Question1:
 I think using customer transaction information to multi-classify the transaction category is interesting. We use a Large Language model such as Bert, TF-IDF, and the combination of TF-IDF and Support Vector Machine to make predictions, which is really fun. It was my first time using the Large Language model in banking customer information. 
 #### Question2:
